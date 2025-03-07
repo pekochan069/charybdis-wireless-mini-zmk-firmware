@@ -14,13 +14,13 @@ layers:
   - L_BASE L_PHOTO L_GAME
   - {t: TAB, h: LWIN}
   - {t: A, h: SYM}
-  - {t: S, h: LEFT ALT}
+  - {t: S, h: LALT}
   - {t: D, h: LEFT SHIFT}
   - {t: F, h: LCTRL}
   - G
   - H
   - {t: J, h: LCTRL}
-  - {t: K, h: RIGHT SHIFT}
+  - {t: K, h: LEFT SHIFT}
   - {t: L, h: LEFT ALT}
   - {t: ;, h: RWIN}
   - DEL
