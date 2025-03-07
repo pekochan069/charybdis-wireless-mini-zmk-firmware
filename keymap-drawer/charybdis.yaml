@@ -15,12 +15,12 @@ layers:
   - {t: TAB, h: LCMD}
   - {t: A, h: SYM}
   - {t: S, h: LEFT ALT}
-  - {t: D, h: LCTRL}
-  - {t: F, h: LEFT SHIFT}
+  - {t: D, h: LEFT SHIFT}
+  - {t: F, h: LCTRL}
   - G
   - H
-  - {t: J, h: RIGHT SHIFT}
-  - {t: K, h: RCTRL}
+  - {t: J, h: LCTRL}
+  - {t: K, h: RIGHT SHIFT}
   - {t: L, h: RIGHT ALT}
   - {t: ;, h: RCMD}
   - DEL
