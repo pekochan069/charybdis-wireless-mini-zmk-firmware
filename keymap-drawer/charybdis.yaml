@@ -12,7 +12,7 @@ layers:
   - O
   - P
   - L_BASE L_PHOTO L_GAME
-  - {t: TAB, h: LCMD}
+  - {t: TAB, h: LWIN}
   - {t: A, h: SYM}
   - {t: S, h: LEFT ALT}
   - {t: D, h: LEFT SHIFT}
@@ -21,8 +21,8 @@ layers:
   - H
   - {t: J, h: LCTRL}
   - {t: K, h: RIGHT SHIFT}
-  - {t: L, h: RIGHT ALT}
-  - {t: ;, h: RCMD}
+  - {t: L, h: LEFT ALT}
+  - {t: ;, h: RWIN}
   - DEL
   - SEARCH
   - Z
