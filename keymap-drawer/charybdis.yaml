@@ -20,7 +20,7 @@ layers:
   - G
   - H
   - {t: J, h: LCTRL}
-  - {t: K, h: LEFT SHIFT}
+  - {t: K, h: RIGHT SHIFT}
   - {t: L, h: LEFT ALT}
   - {t: ;, h: RWIN}
   - DEL
